@@ -9,3 +9,5 @@ Projeto webview com Android Studio (webview with android studio, a site browser)
 -------------------------------------
 
 ![alt text](https://github.com/monteiro74/project_webview/blob/main/tela1.png)
+
+![alt text](https://github.com/monteiro74/project_webview/blob/main/tela2.png)
