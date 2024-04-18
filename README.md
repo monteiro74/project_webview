@@ -11,16 +11,22 @@ Projeto webview com Android Studio (webview with android studio, a site browser)
 Os arquivos apresentados nas figuras abaixo estão neste repositório.
 
 Passo 1:
-![Passo 1](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura1.PNG)
+![Passo 1](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura_a.PNG)
 
 Passo 2:
-![Passo 2](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura2.PNG)
+![Passo 2](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura_b.PNG)
 
 Passo 3:
-![Passo 3](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura3.PNG)
+![Passo 3](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura1.PNG)
 
 Passo 4:
-![Passo 4](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura4.PNG)
+![Passo 4](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura2.PNG)
+
+Passo 5:
+![Passo 5](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura3.PNG)
+
+Passo 6:
+![Passo 6](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura4.PNG)
 
 
 
