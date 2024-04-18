@@ -8,10 +8,17 @@ Projeto webview com Android Studio (webview with android studio, a site browser)
 ###### [esMX] Desarrolladores que trabajan con Scriptcase (SC) (u otra herramienta), que necesitan un sitio web como si fuera una aplicación; puede descargar este proyecto y cambiar solo dos líneas de código en Android Studio. La aplicación generada para Android se comporta si fuera nativa, carga la URL informada; si se pierde la conexión a Internet, la aplicación dejará de funcionar. La primera línea de código es: web.loadUrl ("https://news.google.com/"); en el archivo MainActivity.java. La segunda línea de código es: <string name = "app_name"> Project_Webview </string> en el archivo strings.xml. Las dos figuras siguientes muestran cómo cambiar estas líneas. El proyecto / fuente está en un archivo .zip.
 -------------------------------------
 
-![alt text](https://github.com/monteiro74/project_webview/blob/main/tela1.png)
+Passo 1:
+![Passo 1](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura1.PNG)
 
-![alt text](https://github.com/monteiro74/project_webview/blob/main/tela2.png)
+Passo 2:
+![Passo 2](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura2.PNG)
 
+Passo 3:
+![Passo 3](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura3.PNG)
+
+Passo 4:
+![Passo 4](https://raw.githubusercontent.com/monteiro74/project_webview/main/figura4.PNG)
 
 ---
 # Estatísticas desta página
